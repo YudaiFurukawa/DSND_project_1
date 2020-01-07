@@ -1,4 +1,5 @@
 # Data Scientist Survey Analysis - README
+![Alt text](./images/image1.png)
 
 ## Installation
 Run the command below to install all the requirements
