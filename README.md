@@ -1,4 +1,4 @@
-# Data Scientist Survey Analysis - README
+# Analysis of Developers community using Stack Overflow Survey 2017 as a proxy
 ![Alt text](./images/image1.png)
 
 ## Installation
