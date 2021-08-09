@@ -41,7 +41,7 @@ Pygments==2.5.2
 pypiwin32==223
 python-dateutil==2.8.1
 pytz==2019.3
-pywin32==227
+pywin32==301
 pywinpty==0.5.4
 PyYAML==3.13
 pyzmq==17.1.2
